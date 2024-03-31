@@ -1,0 +1,40 @@
+*{
+    margin: 0;padding: 0;
+}
+.panel-body{
+    width: 30%;
+    height: 35vh;
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.from-control{
+    width: 90%;
+    height: 25px;
+    border: 1px solid gray;
+    margin-left: 17px;
+    margin-top: 20px;
+    border-radius: 3px;
+   
+}
+.button{
+    width: 50%;
+    height: 26px;
+    border: none;
+    margin-left: 80px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+   
+}
